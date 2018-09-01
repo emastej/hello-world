@@ -1,0 +1,33 @@
+this is a pratice file. 
+
+:)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ggit add newfile1.tx
+
+
+
+
+
+quit<enter>
+
